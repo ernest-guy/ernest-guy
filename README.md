@@ -12,7 +12,7 @@
 - BSTAT (Statistics) student at **Makerere University**, School of Statistics and Planning — specializing in **Statistical Computing & Data Science**
 - Background in **Statistical Learning, Computational Statistics, Stochastic modelling, Calculus, Linear algebra, Probability theory and Statistical Inference**
 - Have applied my skills in a real-world setting at the **National Drug Authority (NDA)** during my internship
-- Currently deepening my skills in **R**, **Python**,**SQL** and **PowerBI**
+- Currently deepening my skills in **R**, **Python**, **SQL** and **PowerBI**
 - Reach me on [LinkedIn](https://www.linkedin.com/in/agaba-ernest-3bbba42a7) or check my [Kaggle](https://www.kaggle.com/agabaernest)
 
 ---
@@ -20,7 +20,7 @@
 ### 📌 Featured Project
 
 <a href="https://github.com/ernest-guy/DATA-ANALYSIS-PROJECTS">
-  <img align="left" src="https://github-stats-extended-frontend-g9262pwlx-ernest-guy.vercel.app/api/pin/?username=ernest-guy&repo=DATA-ANALYSIS-PROJECTS&theme=default" />
+  <img align="left" src="https://github-stats-extended-backend-git-master-ernest-guy.vercel.app/api/pin/?username=ernest-guy&repo=DATA-ANALYSIS-PROJECTS&theme=default" />
 </a>
 
 <br clear="left"/>
@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-stats-extended-frontend-g9262pwlx-ernest-guy.vercel.app/api?username=ernest-guy&show_icons=true&locale=en&theme=default" alt="ernest-guy stats" height="165"/>
-  <img src="https://github-stats-extended-frontend-g9262pwlx-ernest-guy.vercel.app/api/top-langs/?username=ernest-guy&layout=compact&locale=en&theme=default" alt="ernest-guy top langs" height="165"/>
+  <img src="https://github-stats-extended-backend-git-master-ernest-guy.vercel.app/api?username=ernest-guy&show_icons=true&locale=en&theme=default" alt="ernest-guy stats" height="165"/>
+  <img src="https://github-stats-extended-backend-git-master-ernest-guy.vercel.app/api/top-langs/?username=ernest-guy&layout=compact&locale=en&theme=default" alt="ernest-guy top langs" height="165"/>
 </p>
 
 <p align="center">
