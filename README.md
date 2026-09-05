@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Agaba Ernest😁</h1>
-<h3 align="center">Statistics & Data Science student | Making decisions happen</h3>
+<h1 align="center">Agaba Ernest</h1>
+<h3 align="center">Statistics & Data Science student | I aspire to inspire before I expire</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ernest-guy&label=Profile%20Views&color=0e75b6&style=flat" alt="ernest-guy" />
@@ -20,7 +20,7 @@
 ### 📌 Featured Project
 
 <a href="https://github.com/ernest-guy/DATA-ANALYSIS-PROJECTS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ernest-guy&repo=DATA-ANALYSIS-PROJECTS&theme=default" />
+  <img align="left" src="https://github-stats-extended-frontend-g9262pwlx-ernest-guy.vercel.app/api/pin/?username=ernest-guy&repo=DATA-ANALYSIS-PROJECTS&theme=default" />
 </a>
 
 <br clear="left"/>
@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernest-guy&show_icons=true&locale=en&theme=default" alt="ernest-guy stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernest-guy&layout=compact&locale=en&theme=default" alt="ernest-guy top langs" height="165"/>
+  <img src="https://github-stats-extended-frontend-g9262pwlx-ernest-guy.vercel.app/api?username=ernest-guy&show_icons=true&locale=en&theme=default" alt="ernest-guy stats" height="165"/>
+  <img src="https://github-stats-extended-frontend-g9262pwlx-ernest-guy.vercel.app/api/top-langs/?username=ernest-guy&layout=compact&locale=en&theme=default" alt="ernest-guy top langs" height="165"/>
 </p>
 
 <p align="center">
