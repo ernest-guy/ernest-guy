@@ -1,18 +1,66 @@
-<h1 align="center">Welcome to Agaba Ernest</h1>
-<h3 align="center">I am a statistics and data science student. This is my poster wall.</h3>
+<h1 align="center">Hi, I'm Agaba Ernest 👋</h1>
+<h3 align="center">Statistics & Data Science student | Turning messy data into decisions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernest-guy" alt="ernest-guy" /></a> </p>
-
-- Currently working on **Final year project**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/agaba-ernest-3bbba42a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agaba-ernest-3bbba42a7" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ernest-guy&label=Profile%20Views&color=0e75b6&style=flat" alt="ernest-guy" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ernest-guy&show_icons=true&locale=en&layout=compact" alt="ernest-guy" /></p>
+### 🔎 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ernest-guy&show_icons=true&locale=en" alt="ernest-guy" /></p>
+- 🎓 BSTAT (Statistics) student at **Makerere University**, School of Statistics and Planning — specializing in **Statistical Computing & Data Science**
+- 🧮 Background in **stochastic processes & queuing theory** (CTMCs, generator matrices, stationary distributions)
+- 📊 Have applied statistics, risk management, and M&E skills in a real-world setting at the **National Drug Authority (NDA)**
+- 🛠️ Currently building my **final year project**
+- 🌱 Currently deepening my skills in **R (tidyverse)**, data cleaning pipelines, and PDF/data extraction workflows
+- 💡 Also exploring entrepreneurship in the informal-economy / MSME data space
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/agaba-ernest-3bbba42a7) or check my [Kaggle](https://www.kaggle.com/agabaernest)
+
+---
+
+### 📌 Featured Project
+
+<a href="https://github.com/ernest-guy/DATA-ANALYSIS-PROJECTS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ernest-guy&repo=DATA-ANALYSIS-PROJECTS&theme=default" />
+</a>
+
+<br clear="left"/>
+
+> A collection of documented data analysis & visualization projects in R — built for readability and reproducibility.
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ernest-guy&show_icons=true&locale=en&theme=default" alt="ernest-guy stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernest-guy&layout=compact&locale=en&theme=default" alt="ernest-guy top langs" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ernest-guy&theme=flat&no-frame=true&row=1&column=6" alt="ernest-guy trophies"/>
+</p>
+
+---
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/agaba-ernest-3bbba42a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agaba-ernest" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/agabaernest" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" height="30" width="30" /></a>
+</p>
