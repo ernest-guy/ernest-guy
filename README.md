@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Agaba Ernest 👋</h1>
-<h3 align="center">Statistics & Data Science student | Turning messy data into decisions</h3>
+<h1 align="center">Hello there, I'm Agaba Ernest😁</h1>
+<h3 align="center">Statistics & Data Science student | Making decisions happen</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ernest-guy&label=Profile%20Views&color=0e75b6&style=flat" alt="ernest-guy" />
@@ -9,13 +9,11 @@
 
 ### 🔎 About Me
 
-- 🎓 BSTAT (Statistics) student at **Makerere University**, School of Statistics and Planning — specializing in **Statistical Computing & Data Science**
-- 🧮 Background in **stochastic processes & queuing theory** (CTMCs, generator matrices, stationary distributions)
-- 📊 Have applied statistics, risk management, and M&E skills in a real-world setting at the **National Drug Authority (NDA)**
-- 🛠️ Currently building my **final year project**
-- 🌱 Currently deepening my skills in **R (tidyverse)**, data cleaning pipelines, and PDF/data extraction workflows
-- 💡 Also exploring entrepreneurship in the informal-economy / MSME data space
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/agaba-ernest-3bbba42a7) or check my [Kaggle](https://www.kaggle.com/agabaernest)
+- BSTAT (Statistics) student at **Makerere University**, School of Statistics and Planning — specializing in **Statistical Computing & Data Science**
+- Background in **Statistical Learning, Computational Statistics, Stochastic modelling, Calculus, Linear algebra, Probability theory and Statistical Inference**
+- Have applied my skills in a real-world setting at the **National Drug Authority (NDA)** during my internship
+- Currently deepening my skills in **R**, **Python**,**SQL** and **PowerBI**
+- Reach me on [LinkedIn](https://www.linkedin.com/in/agaba-ernest-3bbba42a7) or check my [Kaggle](https://www.kaggle.com/agabaernest)
 
 ---
 
