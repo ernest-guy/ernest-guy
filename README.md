@@ -9,7 +9,7 @@
 
 ### 🔎 About Me
 
-- BSTAT (Statistics) student at **Makerere University**, School of Statistics and Planning — specializing in **Statistical Computing & Data Science**
+- Statistics student at **Makerere University**, School of Statistics and Planning — specializing in **Statistical Computing & Data Science**
 - Background in **Statistical Learning, Computational Statistics, Stochastic modelling, Calculus, Linear algebra, Probability theory and Statistical Inference**
 - Have applied my skills in a real-world setting at the **National Drug Authority (NDA)** during my internship
 - Currently deepening my skills in **R**, **Python**, **SQL** and **PowerBI**
